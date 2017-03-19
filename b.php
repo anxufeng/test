@@ -1,2 +1,2 @@
 <php 
-echo 'ceshi';
+echo '多学一招';
